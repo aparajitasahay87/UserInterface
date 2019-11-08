@@ -19,6 +19,7 @@ After discussing about the application with my friends and professors I came to 
 1.	School student 
 2.	Gardner enthusiast
 3.	Biologist and scientist. 
+
 The main goal of PlantFinder application would be to retrieve real time information about any plant that a user sees in day to day life without spending time exclusively on internet. 
 PlantFinder application will enable user to take the picture of the plant in real time and in one click application will return the most close matched result to the user in real time. 
 
