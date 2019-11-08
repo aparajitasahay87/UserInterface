@@ -2,7 +2,7 @@
 
 ##
 **Project Goal**
-The goal of the application is to enable users to get information about the plant in real time by using Plant Finder application on thier mobile phone.
+The goal of the application is to enable users to get information about any plant in real time by using Plant Finder application on their mobile phone.
 
 ## **Project Challenge**
 For inquisitive people who wish to be knowledgeable about the plant around them, gathering information about unknown plants manually is time consuming. To gather information, they either go to their local nursery, read books or research in the internet by uploading the picture. 
