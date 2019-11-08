@@ -2,11 +2,11 @@
 
 ##
 **Project Goal**
-The goal of the application is to enable user to carry a phone having plantFinder and get the information about the plant in real time. 
+The goal of the application is to enable users to get information about the plant in real time by using Plant Finder application on thier mobile phone.
 
 ## **Project Challenge**
 For inquisitive people who wish to be knowledgeable about the plant around them, gathering information about unknown plants manually is time consuming. To gather information, they either go to their local nursery, read books or research in the internet by uploading the picture. 
-It would be great if we can find the name of the plant just in one click wherever we are present currently.
+It would be great, if we can find the name of the plant just in one click and in real time.
 A user centered design philosophy has been followed to address this problem. It consists of following phases: -
 1.	Research
 2.	Ideation
@@ -38,7 +38,7 @@ As a result of these findings, I created two user personas and their correspondi
          1. It is time consuming for her to learn about any plant in real time.   
          2. Cannot share her findings about the species and plant with her friends in other school area.  
 
-##### **2.	Hobbyist gardener** 
+##### **2.	Hobbyist gardner** 
  * Name: Daisy   
  * Age: 28     
  * Behavior: Loves hiking, biking and traveling the world. She is passsionate about her hobbies and wants to spend more time with people who shares similar interest. 
@@ -63,10 +63,8 @@ Once the personas were created, I built following user stories from the perspect
 #### **User Stories**:  
 
     1.	We the group of children are going to a field tour with our teachers to learn more about the plants and tree in and around our area. I quickly want information about the plant such as it's name, plants species etc. , so that I can be more aware about the nature.    
-    2.	When I am going for a hike and see some interesting plants while walking , I want to learn about the plant so that I can share the  
-        plants information with all my friends who share similar information.   
-    3.	As a garner enthusiast, I want to look back to a catalog where I can see and refer some plants information which I have seen in the  
-        past.   
+    2.	When I am going for a hike and see some interesting plants while walking , I want to learn about the plant so that I can share the plants information with all my friends who share similar interest.   
+    3.	As a gardner enthusiast, I want to look back to a catalog where I can see and refer some plants information which I have seen in the past.   
         
 At this point, the challenge of the application is **“to offer a solution that brings information on demand”**.  
 Tackle three pain points:  
@@ -75,7 +73,7 @@ Tackle three pain points:
   3.	Creating a catalog of plants searched so far.  
 
 ### **2.IDEATION**  
-Once the general lines were established, a brainstorming session was held to see the functionalities the application could have. 
+Once the general lines were established, a brainstorming session was held to see the functionalities that the application could have. 
 Then, **I prioritized the ideas following MoSCoW matrix**. ![MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
 * **Must have** 
 1.	Mobile app  
