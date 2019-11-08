@@ -23,7 +23,7 @@ After discussing about the application with my friends and professors I came to 
 The main goal of PlantFinder application would be to retrieve real time information about any plant that a user sees in day to day life without spending time exclusively on internet. 
 PlantFinder application will enable user to take the picture of the plant in real time and in one click application will return the most close matched result to the user in real time. 
 
-#### **User Persona and journey**   
+#### **User Persona**   
 As a result of these findings, I created two user personas and their corresponding customer journey. This allowed me to put the users at the center of the whole process and focus on their main pain points. 
 #### **Personas:** 
 ##### **1.	School student**
