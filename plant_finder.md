@@ -165,7 +165,7 @@ I **tested** the usability of the application by following **10 Usability Heuris
     
 ### **5. CONCLUSION**  
 In this case study, we present a user interface design of a phone application for
-leaf species identification. The leaf identification process
+plant species identification. The plant identification process
 makes this application useful to amateur stakeholders as well
 as experts.Using this application, user can photograph a single
 leaf on a white colored background and submit it as the input
