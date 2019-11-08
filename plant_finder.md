@@ -14,13 +14,13 @@ A user centered design philosophy has been followed to address this problem. It 
 4.	Testing and conclusion 
 
 ### **1.RESEARCH**
-Research began with a series of question on “what” the application would be. In this case I wanted it to be a phone application. So that the application is always available with the user in his or her phone so that they get the information instantly. 
+Research began with a series of question on “what” the application would be. In this case, I wanted it to be a phone application. So that the application is always available with the user in his or her phone so that they get the information instantly. 
 After discussing about the application with my friends and professors I came to an initial hypothesis about who will be the user of this application: -
-1.	school student 
+1.	School student 
 2.	Gardner enthusiast
-3.	biologist and scientist. 
+3.	Biologist and scientist. 
 The main goal of PlantFinder application would be to retrieve real time information about any plant that a user sees in day to day life without spending time exclusively on internet. 
-PlantFinder application will enable user to take the picture of the plant in real time and in one click, application will return the most close matched result to the user in real time. 
+PlantFinder application will enable user to take the picture of the plant in real time and in one click application will return the most close matched result to the user in real time. 
 
 #### **User Persona and journey**   
 As a result of these findings, I created two user personas and their corresponding customer journey. This allowed me to put the users at the center of the whole process and focus on their main pain points. 
@@ -62,7 +62,7 @@ Once the personas were created, I built following user stories from the perspect
 
 #### **User Stories**:  
 
-    1.	We the group of children are going to a field tour with our teachers to learn more about the plants and tree in and around our area. I quickly want information about the plant such as its name, plants species etc. , so that I can be more aware about the nature.    
+    1.	We the group of children are going to a field tour with our teachers to learn more about the plants and tree in and around our area. I quickly want information about the plant such as it's name, plants species etc. , so that I can be more aware about the nature.    
     2.	When I am going for a hike and see some interesting plants while walking , I want to learn about the plant so that I can share the  
         plants information with all my friends who share similar information.   
     3.	As a garner enthusiast, I want to look back to a catalog where I can see and refer some plants information which I have seen in the  
@@ -76,7 +76,7 @@ Tackle three pain points:
 
 ### **2.IDEATION**  
 Once the general lines were established, a brainstorming session was held to see the functionalities the application could have. 
-Then, **I prioritized the ideas following MoSCoW matrix**. 
+Then, **I prioritized the ideas following MoSCoW matrix**. ![MoSCoW method](https://en.wikipedia.org/wiki/MoSCoW_method)
 * **Must have** 
 1.	Mobile app  
 2.	Image recognition system   
@@ -141,7 +141,7 @@ Application will help users recognize, diagnose, and recover from errors: If the
 
 ![catalog](https://github.com/aparajitasahay87/UserInterface/blob/master/plantFinder_catalog.png)  
 
-### **4.TESTING AND CONCLUSION**   
+### **4.TESTING**   
 I **tested** the usability of the application by following **10 Usability Heuristics for User Interface Design**:-  
 1.	**Visibility of system status**   
     In the image recognition application such as plantFinder, I made sure to tell the user about the status from querying the image till the result generation state. I used status button icon to tell the user about the status.  
@@ -163,3 +163,12 @@ I **tested** the usability of the application by following **10 Usability Heuris
     For the first-time users the goal of the application is stated by categorizing the actions into steps  
 10.	**Flexibility and efficiency of use**  
     How to use the application instruction is given to the user in the beginning.   
+    
+### **5. CONCLUSION**  
+In this case study, we present a user interface design of a phone application for
+leaf species identification. The leaf identification process
+makes this application useful to amateur stakeholders as well
+as experts.Using this application, user can photograph a single
+leaf on a white colored background and submit it as the input
+que!)' image. Application will then analyze features of the leaf
+and identify the plant species at real time.
