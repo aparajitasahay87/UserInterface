@@ -168,6 +168,5 @@ In this case study, we present a user interface design of a phone application fo
 plant species identification. The plant identification process
 makes this application useful to amateur stakeholders as well
 as experts.Using this application, user can photograph a single
-leaf on a white colored background and submit it as the input
-que!)' image. Application will then analyze features of the leaf
+leaf on a white colored background and submit it as the input image. Application will then analyze features of the leaf
 and identify the plant species at real time.
